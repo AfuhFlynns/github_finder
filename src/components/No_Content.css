@@ -1,0 +1,17 @@
+.error-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    color: white;
+    gap: 2rem;
+    width: 100%;
+    padding: 2rem 3rem;
+    text-align: center;
+}
+
+.error-div>img {
+    border-radius: 50%;
+    width: 7rem;
+    height: 7rem;
+}
